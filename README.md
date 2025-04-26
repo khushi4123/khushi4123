@@ -9,7 +9,7 @@
 
 ### 🔥 About Me
 
-- 🌱 Currently learning **Python** 
+- 🌱 Currently learning **React** 
 - 🧠 I know **Core Java, JDBC, Servlets, JSP, HTML, CSS, JavaScript, MySQL**
 - 💼Completed Full Stack Java Development Training at **Linkcode Technologies**, Pune
 - 👩‍💻 Always curious about **Web Technologies**, **Backend APIs**, and building real-world apps
