@@ -10,8 +10,8 @@
 ### 🔥 About Me
 
 - 🌱 Currently learning **SpringBoot** 
-- 🧠 I know **Core Java, JDBC, Servlets, JSP, HTML, CSS, JavaScript, MySQL**
-- 💼Completed Full Stack Java Development Training at **Linkcode Technologies**, Pune
+- 🧠 I know **Java, JDBC, Servlets, JSP, HTML, CSS, Bootstrap, JavaScript, MySQL**
+- 💼Completed Java Full Stack Development Training at **Linkcode Technologies**, Pune
 - 👩‍💻 Always curious about **Web Technologies**, **Backend APIs**, and building real-world apps
 - 💬 Ask me about Java or web development — I'm always ready to help!
 - 📫 Reach me at: `yadavkhushi9161@gmail.com`
